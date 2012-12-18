@@ -2,9 +2,9 @@
 
 defined('C5_EXECUTE') or die(_("Access Denied."));
 
-class JqueryDynatreePackage extends Package {
+class jquerydynatreePackage extends Package {
 
-	protected $pkgHandle = 'Jquery_Dynatree';
+	protected $pkgHandle = 'jquery_dynatree';
 	protected $appVersionRequired = '5.3.3'; 
 	protected $pkgVersion = '1.0';
 	
